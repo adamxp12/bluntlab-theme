@@ -10,6 +10,11 @@ a>h3 {
     color: #fff;
 }
 
+small {
+    font-style: italic;
+    opacity: 0.5;
+}
+
 body{
     background: #344146;
     color: #fff;
@@ -33,6 +38,12 @@ body{
 
 .postlist a {
     color: #fff;
+}
+
+.postcontent {
+    margin-top: 40px;
+    font-size: 17px;
+    font-family: Tahoma, Geneva, sans-serif;
 }
 
 footer {
