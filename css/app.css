@@ -35,6 +35,13 @@ body{
     color: #fff;
 }
 
+footer {
+    background: #fff;
+    color: #000;
+    margin-top: 10vh;
+    padding: 30px 0;
+}
+
 
 /* Utility classes */
 .displayblock {
